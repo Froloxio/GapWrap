@@ -61,7 +61,7 @@
 
     self.viewController = [[[MainViewController alloc] init] autorelease];
     self.viewController.useSplashScreen = YES;
-    self.viewController.startPage = @"http://www.myschoolbucks.com";
+    self.viewController.startPage = @"https://demomobile.mylunchmoney.com";
 
     // NOTE: To customize the view's frame size (which defaults to full screen), override
     // [self.viewController viewWillAppear:] in your view controller.
